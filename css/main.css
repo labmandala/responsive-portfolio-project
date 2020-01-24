@@ -707,13 +707,13 @@ background-color: #ccc;
     background-size: cover;
     background-position: center;
   }
-
+/*
   .mission-content {
     display: flex;
     justify-content: space-between;
     align-items: center;
   }
-
+*/
   .mission-content p,
   .mission-content h5 {
     width: 40%;
