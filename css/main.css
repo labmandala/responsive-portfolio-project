@@ -593,6 +593,10 @@ background-color: #ccc;
     display: none;
   }
 
+  ul#navigation .active {
+    font-weight: bold;
+  } 
+
   /* Hero Area */
 
   .hero-area h1 {
