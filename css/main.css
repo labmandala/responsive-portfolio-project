@@ -678,6 +678,7 @@ background-color: #ccc;
     justify-content: space-between;
     align-items: center;
     flex-direction: row;
+    justify-content: center;
   }
 
   footer .contact {
@@ -686,16 +687,17 @@ background-color: #ccc;
 
   footer h4 {
     font-size: 1.5em;
-    margin-bottom: 2.5em;
+    margin-bottom: 1.5em;
   }
 
   footer p {
-      line-height: 1.285;
+    line-height: 1.285;
   }
 
   footer .social-icons {
     width: 12.5em;
     justify-content: space-between;
+    margin-bottom: 2.5em;
   }
   
   footer .copyright {
