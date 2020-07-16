@@ -143,14 +143,16 @@ h2 {
   margin: 0;
 }
  
-h3, 
-h4 {
-  font-family: 'Roboto', sans-serif;
+h3  {
   font-weight: 500;
   font-size: 1.125em;
   margin: 1em 0;
 }
  
+h4 {
+  font-size: 1em;
+}
+
 p {
   font-size: 0.875em;
   line-height: 1.285em;
@@ -685,11 +687,6 @@ background-color: #ccc;
     margin-bottom: 0;
   }
 
-  footer h4 {
-    font-size: 1.5em;
-    margin-bottom: 1.5em;
-  }
-
   footer p {
     line-height: 1.285;
   }
@@ -734,10 +731,6 @@ background-color: #ccc;
     justify-content: space-between;
     align-items: flex-start;
   }
-
-  .contact-content h4 {
-    font-size: 1.5em;
-  }
 }
 
 @media only screen and (min-width:1200px) {
@@ -751,8 +744,7 @@ background-color: #ccc;
     font-size: 2.25em;
   }
 
-  h3,
-  h4 {
+  h3 {
       font-size: 1.875em;
   }
 
