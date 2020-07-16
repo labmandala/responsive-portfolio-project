@@ -351,7 +351,7 @@ footer .copyright {
 }
 */
 .features img {
-  margin: 1em 0;
+  margin: 2em 0 1em 0;
 }
 
 .features p {
@@ -772,6 +772,10 @@ background-color: #ccc;
 
   .features article {
     flex-basis: 33%;
+  }
+
+  .features h4 {
+    font-size: 1.125em;
   }
   
   /* About */
