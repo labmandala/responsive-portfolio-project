@@ -263,6 +263,16 @@ footer .social-icons p i {
   font-size: 1.3125em;
 }
 
+.btn {
+  border: 1px solid #8e8f8e;
+  margin-bottom: 2em; 
+}
+
+.btn:hover {
+  color: #f2f2f2;
+  background: #8e8f8e;
+}
+
 footer .copyright {
   font-size: 0.75em;
   margin: 1.25em 0; 
