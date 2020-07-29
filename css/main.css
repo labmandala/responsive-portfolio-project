@@ -428,7 +428,8 @@ footer .copyright {
   flex-flow: row wrap;
 }
 
-.mission h2 {
+.mission h2,
+.study h2 {
   margin-bottom: 1em;
 }
 
@@ -468,6 +469,44 @@ background-color: #ccc;
   height: 100%;
   margin-bottom: 10px;
   border: 1px solid #999;
+}
+
+/*
+ ==========================================================================
+   Case Study
+ ========================================================================== 
+*/
+
+.study {
+  background-color: #f2f2f2;
+  background-size: cover;
+  background-position: center;
+  color: #3b3c40;
+  min-height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: row wrap;
+}
+/*
+.study h2 {
+  text-decoration: underline;
+}
+*/
+
+.study h3 {
+  font-size: 1.25em;
+}
+
+.study p {
+/* letter-spacing: .07em; */
+font-size: 1em;
+word-spacing: .15em;
+line-height: 1.6em;
+}
+
+.study-border {
+  border-bottom: 1px solid #8e8f8e;
 }
 
 /* ==========================================================================
