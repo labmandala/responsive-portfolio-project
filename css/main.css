@@ -506,7 +506,7 @@ background-color: #ccc;
 .study p {
 /* letter-spacing: .07em; */
 font-size: 1em;
-word-spacing: .15em;
+/* word-spacing: .15em; */
 line-height: 1.6em;
 }
 
@@ -516,7 +516,7 @@ line-height: 1.6em;
 
 .blank {
   background-color: #fff;
-  padding: 1em;
+  padding: 2em;
 }
 
 /* ==========================================================================
