@@ -429,7 +429,8 @@ footer .copyright {
 }
 
 .mission h2,
-.study h2 {
+.study h2,
+.study h4 {
   margin-bottom: 1em;
 }
 
@@ -498,6 +499,10 @@ background-color: #ccc;
   font-size: 1.25em;
 }
 
+.study h4 {
+  font-weight: bold;
+}
+
 .study p {
 /* letter-spacing: .07em; */
 font-size: 1em;
@@ -507,6 +512,11 @@ line-height: 1.6em;
 
 .study-border {
   border-bottom: 1px solid #8e8f8e;
+}
+
+.blank {
+  background-color: #fff;
+  padding: 1em;
 }
 
 /* ==========================================================================
