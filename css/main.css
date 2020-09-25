@@ -503,6 +503,15 @@ background-color: #ccc;
   font-weight: bold;
 }
 
+.study h5 {
+  font-size: 1.15em;
+}
+
+.study h6 {
+  font-size: .75em;
+  margin: 1em;
+}
+
 .study p {
 /* letter-spacing: .07em; */
 font-size: 1em;
