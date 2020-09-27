@@ -326,6 +326,19 @@ footer .copyright {
   color: #3b3c40;
 }
 
+button {
+  border-radius: 5px;
+}
+
+button h6 {
+  margin: 1px;
+}
+
+button:hover {
+  color: #3b3c40;
+  background: #f2f2f2;
+}
+
 /*
 .skills .content-wrapper,
 .about .content-wrapper {
