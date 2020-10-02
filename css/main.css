@@ -321,6 +321,10 @@ footer .copyright {
   font-size: 1.15em;
 }
 
+.skills h5 {
+  font-size: 1em;
+}
+
 .skills h6,
 .about h6 a {
   color: #3b3c40;
