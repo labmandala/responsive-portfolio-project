@@ -752,7 +752,9 @@ line-height: 1.6em;
   .about article figure,
   .about article div {
     width: 49%;
+    margin: auto;
   }
+
 
   .about h3 {
     width: 75%;
